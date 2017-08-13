@@ -1,2 +1,2 @@
-# js-dev-env
-Javscript Development Environment
+# js-dev-env-demo
+Course demo
