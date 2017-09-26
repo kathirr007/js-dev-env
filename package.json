@@ -22,7 +22,11 @@
     "postbuild": "babel-node buildScripts/distServer.js",
     "deploy": "surge ./dist"
   },
-  "author": "Cory House",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/epworkplace/webapp-UIWorkflow.git"
+  },
+  "author": "Kathirr007",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
